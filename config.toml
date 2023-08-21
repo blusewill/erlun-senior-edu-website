@@ -1,4 +1,4 @@
-baseURL = "https://erlunsenioredu.tk"
+baseURL = "https://erlunsenioredu.us.to"
 languageCode = "tw"
 defaultContentLanguage = "tw"
 title = "二崙樂齡學習中心"
@@ -8,7 +8,7 @@ paginate = 50
 enableEmoji = false
 enableRobotsTXT = false
 googleAnalytics = ""
-disqusShortname = "yourdiscussshortname"
+contentDir = "content"
 
 [sitemap]
   changefreq = "monthly"
@@ -52,87 +52,23 @@ disqusShortname = "yourdiscussshortname"
     home_mode = "other" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
     
-    google_verification = ""
-    bing_verification = ""
-    yandex_verification = ""
-    pinterest_verification = ""
-    baidu_verification = ""
-
     avatar = "/images/homepage/home.jpg" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
     keywords = "" # site keywords
-
     
 [params.gravatar]
     #email = "a47744113@yahoo.com.tw"   #uncomment and insert your email address to use gravatar
 
 
 [params.social]
-    #GitHub = "xxxx"
-    #Linkedin = "xxxx"
-    #Twitter = "xxxx"
-    #Instagram = "xxxx"
-    #Email   = "xxxx"
-    Facebook = "/profile.php?id=100069254726210"
-    #Telegram = "xxxx"
-    #Medium = "xxxx"
-    #Gitlab = "xxxx"
-    #Youtubelegacy = "xxxx"
-    #Youtubecustom = "xxxx"
-    #Youtubechannel = "xxxx"
-    #Tumblr ="xxxx"
-    #Quora = "xxxx"
-    #Keybase = "xxxx"
-    #Pinterest = "xxxx"
-    #Reddit = "xxxx"
-    #Codepen = "xxxx"
-    #Bitbucket = "xxxx"
-    #Stackoverflow = "xxxxx"
-    #Weibo = "xxxx"
-    #Odnoklassniki = "xxxx"
-    #VKontakte = "xxxx"
-    #Flickr = "xxxx"
-    #Xing = "xxxx"
-    #Snapchat = "xxxx"
-    #Soundcloud = "xxxx"
-    #Spotify = "xxxx"
-    #Bandcamp = "xxxx"
-    #Paypal = "xxxx"
-    #Fivehundredpx = "xxxx"
-    #Mix = "xxxx"
-    #Goodreads = "xxxx"
-    #Lastfm = "xxxx"
-    #Foursquare = "xxxx"
-    #Hackernews = "xxxx"
-    #Kickstarter = "xxxx"
-    #Patreon = "xxxx"
-    #Steam = "xxxx"
-    #Twitch = "xxxx"
-    #Strava = "xxxx"
-    #Skype = "xxxx"
-    #Whatsapp = "xxxx"
-    #Zhihu = "xxxx"
-    #Douban = "xxxx"
-    #Angellist = "xxxx"
-    #Slidershare = "xxxx"
-    #Jsfiddle = "xxxx"
-    #Deviantart = "xxxx"
-    #Behance = "xxxx"
-    #Dribble = "xxxx"
-    #Wordpress = "xxxx"
-    #Vine = "xxxx"
-    #Googlescholar = "xxxx"
-    #Researchgate = "xxxx"
-    #Mastodon = "xxxx"
-    #Thingiverse = "xxxx"
-
+Facebook = "profile.php?id=100069254726210"
 [params.share]
 Twitter = true
 Facebook = true
 #Reddit = true
-Linkedin = true
+#Linkedin = true
 #Pinterest = true
 #HackerNews = true
 #Mix = true
@@ -164,8 +100,3 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     url = "cover.png"
     width = 800
     height = 600
-
-
-[params.utterances]       # https://utteranc.es/
-    owner = "blusewill"              # Your GitHub ID
-    repo = "erlun-senior-edu-website"               # The repo to store comments
