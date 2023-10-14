@@ -1,6 +1,6 @@
 baseURL = "https://erlunsenioredu.us.to"
-languageCode = "tw"
-defaultContentLanguage = "tw"
+languageCode = "zh-tw"
+defaultContentLanguage = "zh-tw"
 title = "二崙樂齡學習中心"
 theme = "KeepIt"
 
