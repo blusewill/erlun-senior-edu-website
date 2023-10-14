@@ -5,7 +5,7 @@
 # - jpegoptim
 # - optipng
 
-FOLDER="/home/blusewill/Documents/GitHub/erlun-senior-edu-website/content/images/album/2023.8.19祖父母節"
+FOLDER="/home/blusewill/Documents/GitHub/erlun-senior-edu-website/content/images/album/2023.10.06深坑溪王祭"
 
 # max width
 WIDTH=800
