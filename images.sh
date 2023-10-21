@@ -5,7 +5,7 @@
 # - jpegoptim
 # - optipng
 
-FOLDER="/home/blusewill/Documents/GitHub/erlun-senior-edu-website/content/images/album/2023.10.14三和表演"
+FOLDER="/home/blusewill/Documents/GitHub/erlun-senior-edu-website/content/images/album/2023.10.20"
 
 # max width
 WIDTH=800
